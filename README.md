@@ -16,10 +16,9 @@ Average salary by job titles\
 Happy with work/life balance\
 Favorite Programming Language
 # Tools & Technologies
-MySQL (Data Storage & Extraction)\
+Excel (Data Storage & Extraction)\
 Power BI (Data Visualization)\
 DAX (Data Analysis Expressions)\
-SQL (Data Queries)
 # This dashboard is useful for:
 Career guidance in the data field\
 HR teams assessing salary benchmarks\
